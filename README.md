@@ -238,3 +238,6 @@ This repository serves as the official landing page for WebCam Companion. The so
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of WebCam Companion today!**
+
+---
+**Last updated:** 2026-09-10 13:59:26 UTC
