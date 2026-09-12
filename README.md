@@ -240,4 +240,4 @@ This repository serves as the official landing page for WebCam Companion. The so
 **Get the most recent version of WebCam Companion today!**
 
 ---
-**Last updated:** 2026-09-12 14:43:44 UTC
+**Last updated:** 2026-09-12 17:34:34 UTC
